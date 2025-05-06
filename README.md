@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **a real-time collaboration app using React and WebSockets**
 - 🌱 I’m learning **Rust & advanced TypeScript**
 - 💬 Ask me about **React, Node.js, MongoDB, Docker**
-- 📫 How to reach me: **john.doe@example.com**
+- 📫 How to reach me: **saifeekhaled1212@gmail.com **
 - ⚡ Fun fact: *I love building indie SaaS tools in my free time.*
 
 ---
