@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johnathan Doe</h1>
+<h1 align="center">Hi 👋, I'm Khalid Saifee</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer from USA</h3>
 
 <p align="center">
