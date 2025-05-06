@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Amir Hossein</h1>
+<h1 align="center">Hi 👋, I'm Khalid Saifee</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer from Iran</h3>
 
 <p align="center">
-  <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khaled-saifee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saifeekhaled1212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -14,7 +13,7 @@
 - 🔭 I’m currently working on **modern React & Next.js web apps**
 - 🌱 I’m learning **TypeScript, GraphQL, and System Design**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: `your.email@example.com`
+- 📫 How to reach me: `saifeekhaled1212@gmail.com `
 - ⚡ Fun fact: *I love turning coffee into clean code.*
 
 ---
@@ -58,7 +57,7 @@
 
 ### 🌐 Let's Connect
 
-Reach out to me on [LinkedIn](https://linkedin.com/in/yourusername) or check out my [Portfolio](https://your-website.com)  
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/khaled-saifee) or check out my [Telegram ](https://t.me/kh_12343)  
 I'm always open to new opportunities and collaborations!
 
 ---
