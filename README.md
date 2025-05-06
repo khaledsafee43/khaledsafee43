@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Khalid Saifee</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer from USA</h3>
+<h1 align="center">Hi 👋, I'm Amir Hossein</h1>
+<h3 align="center">🚀 A passionate Full Stack Developer from Iran</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khaled-saifee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saifeekhaled1212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **a real-time collaboration app using React and WebSockets**
-- 🌱 I’m learning **Rust & advanced TypeScript**
-- 💬 Ask me about **React, Node.js, MongoDB, Docker**
-- 📫 How to reach me: **saifeekhaled1212@gmail.com **
-- ⚡ Fun fact: *I love building indie SaaS tools in my free time.*
+- 🔭 I’m currently working on **modern React & Next.js web apps**
+- 🌱 I’m learning **TypeScript, GraphQL, and System Design**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 How to reach me: `your.email@example.com`
+- ⚡ Fun fact: *I love turning coffee into clean code.*
 
 ---
 
@@ -27,17 +28,37 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-
-### 🧩 GitHub Contribution Snake 🐍
-
-![snake gif](https://github.com/khaledsafee43/khaledsafee43/blob/output/github-contribution-grid-snake.svg)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 
 ---
 
-### 📫 Let's Connect!
+### 📈 GitHub Stats
 
-Reach out on [LinkedIn](www.linkedin.com/in/khaled-saifee) — I'm always open to new ideas and collaborations!
-Reach out on [Telegram](https://t.me/kh_12343);
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
+### 🌟 Featured Projects
+
+- 🚀 [**My Portfolio Site**](https://github.com/your-github-username/portfolio): Built with Next.js, Tailwind, and Framer Motion  
+- 📚 [**Blog CMS**](https://github.com/your-github-username/blog-cms): A headless blog management system with authentication and dashboard  
+- 🛠 [**Weather App**](https://github.com/your-github-username/weather-app): Uses OpenWeather API with React and styled-components
+
+---
+
+### 🧩 Contribution Snake 🐍
+
+![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Let's Connect
+
+Reach out to me on [LinkedIn](https://linkedin.com/in/yourusername) or check out my [Portfolio](https://your-website.com)  
+I'm always open to new opportunities and collaborations!
+
+---
