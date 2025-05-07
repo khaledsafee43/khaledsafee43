@@ -10,11 +10,11 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **modern React & Next.js web apps**
-- 🌱 I’m learning **TypeScript, GraphQL, and System Design**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: `saifeekhaled1212@gmail.com `
-- ⚡ Fun fact: *I love turning coffee into clean code.*
+- 🔭 I’m currently working on **a real-time collaboration app using React and WebSockets**
+- 🌱 I’m learning **Rust & advanced TypeScript**
+- 💬 Ask me about **React, Node.js, MongoDB**
+- 📫 How to reach me: **saifeekhaled1212@gmail.com **
+- ⚡ Fun fact: *I love building indie SaaS tools in my free time.*
 
 ---
 
@@ -38,19 +38,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
----
-
-### 🌟 Featured Projects
-
-- 🚀 [**My Portfolio Site**](https://github.com/your-github-username/portfolio): Built with Next.js, Tailwind, and Framer Motion  
-- 📚 [**Blog CMS**](https://github.com/your-github-username/blog-cms): A headless blog management system with authentication and dashboard  
-- 🛠 [**Weather App**](https://github.com/your-github-username/weather-app): Uses OpenWeather API with React and styled-components
-
----
-
 ### 🧩 Contribution Snake 🐍
 
-![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/johndoe/johndoe/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
