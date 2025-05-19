@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khalid Saifee</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer from Iran</h3>
 
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out on these contacts:
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-saifee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saifeekhaled1212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/luciferorangei)
 </p>
+[📨 Message me on Telegram](https://t.me/kh_12343)
 
 ---
 
