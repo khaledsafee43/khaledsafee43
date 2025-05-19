@@ -7,8 +7,10 @@ If you have any questions or suggestions, feel free to reach out on these contac
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-saifee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saifeekhaled1212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/kh_12343" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </p>
-[📨 Message me on Telegram](https://t.me/kh_12343)
 
 ---
 
