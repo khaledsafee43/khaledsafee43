@@ -45,6 +45,9 @@ If you have any questions or suggestions, feel free to reach out on these contac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledsafee43&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
+README STATE 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledsafee43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🧩 Contribution Snake 🐍
 
 ![snake gif](https://github.com/khaledsafee43/khaledsafee43/blob/output/github-contribution-grid-snake.svg)
