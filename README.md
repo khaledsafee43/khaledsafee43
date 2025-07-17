@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Saifee</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer from Iran</h3>
+<h3 align="center">🚀 A passionate Full Stack Developer from Afghanistan</h3>
 
 ## 📬 Contact
 
