@@ -43,6 +43,11 @@ If you have any questions or suggestions, feel free to reach out on these contac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledsafee43&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 ### 🧩 Contribution Snake 🐍
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=khaledsafee43&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ![snake gif](https://github.com/khaledsafee43/khaledsafee43/blob/output/github-contribution-grid-snake.svg)
 
