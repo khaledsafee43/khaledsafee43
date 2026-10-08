@@ -258,7 +258,7 @@ Management Dashboard
 
 <p align="center">
   <img
-    src="https://github.com/khaledsafee43/blob/output/github-contribution-grid-snake.svg"
+    src="https://github.com/khaledsafee43/khaledsafee43/blob/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
