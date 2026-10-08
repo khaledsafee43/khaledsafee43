@@ -43,7 +43,6 @@ Tools           → Git + GitHub + VS Code + Postman
 * 🔭 Building and improving **full-stack web applications**
 * 🌱 Deepening my knowledge of **TypeScript and advanced React**
 * ⚙️ Improving backend architecture and API design
-* 📱 Exploring **React Native**
 * 🚀 Building projects that solve real-world problems
 * 💼 Open to **freelance and remote opportunities**
 * 🤝 Interested in collaborating on meaningful projects
