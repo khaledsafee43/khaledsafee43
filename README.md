@@ -257,7 +257,7 @@ Management Dashboard
 # 🐍 Contribution Snake
 
 <p align="center">
-![snake animation](https://github.com/<khaledsafee43>/<khaledsafee43>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/khaledsafee43/khaledsafee43/blob/output/github-contribution-grid-snake2.svg)
 </p>
 
 ---
